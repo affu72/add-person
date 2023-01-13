@@ -1,6 +1,5 @@
 import { useState } from "react";
 import PersonList from "./Componens/PersonList";
-import ErrorModel from "./Componens/styled-compoent/ErrorModel";
 import UserForm from "./Componens/UserForm";
 
 function App() {
